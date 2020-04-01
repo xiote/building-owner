@@ -1,4 +1,4 @@
-package common
+package models
 
 type AptListRequest struct {
 	BaseYmd       string
