@@ -14,4 +14,6 @@ type AptDetail struct {
   DongCount int
   PlanTypeCount int
   OwnerInfoApiUrl string
+	  XmlOwnerInfoApiUrl string
+
 }
